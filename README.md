@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Ismail Samil & I am Data Engineer 
+#### 👋 Hello World, I'm Ismail Samil and I am Data Engineer 
 
 📍 Currently enrolled in a specialized formation powered by **UM6P**  
 🎯 i am working an project about **solving real-world challenges in the healthcare industry** through data-driven solutions  
@@ -58,7 +58,7 @@
 ---
 
 ## 📈 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=ismai_samil&show_icons=true&bg_color=FBA518)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismail)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ismail)  
 
 ---
