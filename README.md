@@ -1,8 +1,9 @@
-### Hello World, I'm Ismail Samil 
 
-I'm a passionate data and software engineer obsessed with making things work and solving complex problems. My expertise spans across data engineering, machine learning, and full-stack development.
+![Screenshot from 2025-03-29 12-45-52](https://github.com/user-attachments/assets/e3e73d5c-38a4-49ad-ba39-835b9cf606c3)
 
-## 🌐 Connect with Me
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@ismailsamil)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@ismailsamil)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ismailsamil)
