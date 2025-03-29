@@ -50,9 +50,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
-## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ismail&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail&layout=compact&theme=radical)
 
 
 <picture>
